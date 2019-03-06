@@ -1,0 +1,41 @@
+.App {
+  text-align: center;
+}
+.Logo{
+
+  color: #fff;
+}
+.image1{
+  height: 100px;
+  width:100px;
+}
+.Author_name{
+  position:absolute;
+  top:70px;
+  margin-left: 110px;
+  color:rebeccapurple;
+}
+.carrousel_image {
+    
+  background-size: cover !important;
+}
+.carrousel_wrapper {
+  height:200px;
+  width: 400px;
+  margin-top:20px;
+  overflow: hidden;
+}
+
+.card_inner{
+  border-box:1px solid #ccc;
+  
+  padding:8px;
+  overflow: hidden;
+  width:200px;
+
+}
+.Auth_cont{
+  
+}
+
+
